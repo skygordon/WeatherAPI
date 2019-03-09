@@ -1,7 +1,9 @@
 # WeatherAPI
-Uses a Weather API for Cambridge, MA to bring the user four current pieces of info
+Uses a Weather API for Cambridge, MA to bring the user four current pieces of info.
+Uses Pythona and C++.
 
 User can choose to have the device display either the current temperature, time, date, or visibility, with the press of a single button.
+
 Scrolls so that the newest info is on the top and everything get shifted downwards.
 
 Hardware: Esp32, tft screen 1.8", button
